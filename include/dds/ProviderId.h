@@ -1,0 +1,6 @@
+#pragma once
+#include <guiddef.h>
+
+// Keep synchronized with scripts/Common.ps1.
+inline constexpr GUID CLSID_DdsThumbnail =
+    {0x9fb9e3a6, 0x57ef, 0x4a20, {0x93, 0x77, 0x2e, 0x8c, 0x54, 0x6a, 0x09, 0xdb}};
